@@ -1,0 +1,20 @@
+il faut utiliser:
+
+2 mircobit
+le langage mircobit a l aide d un editeur web
+communication entre mircobit cryptées
+un mot de passe pour les microbits
+un programme sur mircobit permettant de:
+    d'établir une connexion entre les mircobit
+    mesurer l agitation du bebe
+    enregistrer prises de lait et autres
+
+fournir une fonctionnalité supplémentaire de notre choix utilisant les capteurs
+
+
+un powerpoint
+une vidéo d'explication commentée de l'utilisation des microbits
+un rapport écrit sur LAtex -> moins de codes(sauf si petite partie intéressante)
+un readme contenant le contexte du projet, une explication du programme, des différentes fonctions, de son fonctionnement générale
+les fichiers utilisés dans le programme, leur emplacement
+un "planning"
