@@ -16,5 +16,22 @@ un powerpoint
 une vidéo d'explication commentée de l'utilisation des microbits
 un rapport écrit sur LAtex -> moins de codes(sauf si petite partie intéressante)
 un readme contenant le contexte du projet, une explication du programme, des différentes fonctions, de son fonctionnement générale
-les fichiers utilisés dans le programme, leur emplacement
+    les fichiers utilisés dans le programme, leur emplacement
 un "planning"
+
+
+
+
+microbits doit pouvoir alerté parent si il se réveille
+    detecter mouvement bebe, cela se traduit en 3 etat eveil different (endormi, agite, tres agité)
+    a l aide de l'interface, communiquer etat eveil bebe aux parents
+    en fonction etat eveil, rassurer bebe
+microbits suit quantité lait ingurgité
+    a l aide interface et boutons, sur le microbit parent, de saisir la prise d une dose de lait
+    d'en supprimer une prise de dose de lait
+    réinitialisez à zero les prises de doses de lait
+    sur le microbit enfant, consulter la quantité de lait consommé
+microbits possède une connexion sécurisée
+une fonctionnalité supplémentaire
+microbits utilisera format de communication TLV
+sur chaque microbit, au démarrage afficher une image différentes
